@@ -1,0 +1,20 @@
+{
+  "name": "musician",
+  "version": "1.0.0",
+  "description": "Musician for Lab Orchestra, RES-2020.",
+  "main": "start.js",
+  "scripts": {
+    "start": "node ./js/start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music"
+  ],
+  "author": "Moromir",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "esm": "^3.2.25",
+    "uuid": "^8.2.0"
+  }
+}
